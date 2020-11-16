@@ -1,0 +1,15 @@
+.head-line{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.introduction{
+    display: flex;
+    margin-left: 60px;
+}
+#mern-button{
+    background: none;
+    color: black;
+    border: none ;
+}
